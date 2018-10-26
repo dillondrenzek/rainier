@@ -1,26 +1,5 @@
 ---
 ---
 
-html,
-body {
-  font-family: 'Krub', serif;
-}
-
-body {
-  background-image: url('{{site.baseurl}}/assets/img/mt-rainier-from-above-at-sunset.jpg');
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  margin: 0;
-  height: 100vh;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  margin: 0;
-  font-family: 'Oswald', sans-serif;
-}
+@import "base";
+@import "page";

@@ -13,7 +13,7 @@
 
 html {
   line-height: 1;
-  overflow: hidden;
+  // overflow: hidden;
   &.no-scroll {
     overflow: hidden;
   }
@@ -21,14 +21,16 @@ html {
 
 html,
 body {
-  height: 100%;
-  line-height: 1.2
+  // height: 100%;
+  // line-height: 1.2
 }
 
 body {
   font-family: $base-font;
   color: $overlay-color;
   background: $white;
+
+  height: 100vh;
 }
 
 a {

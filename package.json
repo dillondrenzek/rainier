@@ -1,0 +1,19 @@
+{
+  "name": "rainier-blog",
+  "version": "0.0.1",
+  "description": "A blog for Rainier",
+  "main": "index.js",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dillondrenzek/rainier.git"
+  },
+  "author": "Dillon Drenzek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dillondrenzek/rainier/issues"
+  },
+  "homepage": "https://github.com/dillondrenzek/rainier#readme"
+}
